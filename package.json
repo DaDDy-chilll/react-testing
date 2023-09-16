@@ -46,6 +46,7 @@
   "devDependencies": {
     "@redux-devtools/extension": "^3.2.2",
     "install": "^0.13.0",
-    "npm": "^8.13.1"
+    "npm": "^8.13.1",
+    "react-test-renderer": "^18.2.0"
   }
 }
